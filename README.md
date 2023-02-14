@@ -1,1 +1,1 @@
-this repo contains all of my pythons projects
+tasks on almost a circle
